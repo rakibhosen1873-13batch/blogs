@@ -7,14 +7,13 @@
       padding: 25px;
       font-size: 1.25em;
    }
-   .hero-container button{
+   .hero-container button {
       background-color:aqua ;
       padding:10px 30px ;
       font-size: 1.25em;
-      border-radius: 10px;
-      cursor:pointer ;
-    
-S   }
+      border-radius: 25px;
+      cursor:pointer ;  
+  }
    .hero-container img {
    width: 100% ;
          height: 400px;
